@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## New test for Victions's blog
 
 You can use the [editor on GitHub](https://github.com/viction49/viction-blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
